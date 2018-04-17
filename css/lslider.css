@@ -1,0 +1,26 @@
+div.slider {
+    position: fixed;
+    top: -50px;
+    left: 10px;
+}
+div.button {
+    position: fixed;
+    top: 135px;
+    left: 80px;
+}
+button {
+     width: 70px;
+     height: 30px;
+}
+.rs-control .rs-range-color {
+    background-color: lightcyan;
+}
+.rs-control .rs-path-color {
+    background-color: blue;
+}
+.rs-control .rs-handle {
+    background-color: orange;
+}
+.rs-control .rs-bg-color {
+    background-color: none;
+}
